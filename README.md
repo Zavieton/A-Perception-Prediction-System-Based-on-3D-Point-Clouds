@@ -8,9 +8,9 @@ Abstract: This project is using the point clouds data to perception surrounding 
 ### The result of system:
 
 <p align="center">
-<img src="./figures/result1.jpg" height = "168" alt="" align=center />
+<img src="https://github.com/Zavieton/PPS3D/blob/main/figures/result1.jpg" height = "168" alt="" align=center />
 <br><br>
-<b>Figure 3.</b> An example of the ETT data.
+<b>Figure 2.</b> Result
 </p>
 
 ![Result_1](https://github.com/Zavieton/PPS3D/blob/main/figures/result1.jpg)
