@@ -8,7 +8,7 @@ Abstract: This project is using the point clouds data to perception surrounding 
 ### The result of system:
 
 <p align="center">
-<img src="https://github.com/Zavieton/PPS3D/blob/main/figures/result1.jpg" height = "168" alt="" align=center />
+<img src="http://github.com/Zavieton/PPS3D/blob/main/figures/result1.jpg" height = "168" alt="" align=center />
 <br><br>
 <b>Figure 2.</b> Result
 </p>
